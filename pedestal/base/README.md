@@ -1,7 +1,7 @@
 # Airbus A320
 ## Home Cockpit Pedestal base
 
-[<img src="./preview.png" width="800">](./preview.png)
+[<img src="./preview.png" width="100%">](./preview.png)
 
 ### MDF Plates:
 - Front & Back - 2x 401 x 340 x 12mm
