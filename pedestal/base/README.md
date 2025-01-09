@@ -11,7 +11,7 @@
 [<img src="./assembly.png" width="100%">](./assembly.png)
 
 ### Hardware:
-- Threaded inserts: M5×9,5×7,3mm - https://amzn.to/3Watka1
+- 23x Threaded inserts - M5×9,5×7,3mm - https://amzn.to/3Watka1
 - Wood screws
 - Spray Paint (depending on the version old/new): 
   - RAL 5014 - https://amzn.to/3C22f1O
