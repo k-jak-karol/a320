@@ -2,7 +2,7 @@
 ## Home Cockpit
 
 ### Pedestal
-- [Base](../pedestal/base)
+- [Base](./pedestal/base)
 
 ### Social media
 - Discord: https://discord.gg/9MF7dtWe
