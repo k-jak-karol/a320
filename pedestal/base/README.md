@@ -13,7 +13,10 @@
 ### Hardware:
 - Threaded inserts: M5×9,5×7,3mm - https://amzn.to/3Watka1
 - Wood screws
-- RAL 5014 or RAL 7031 Spray paint(depending on if you want to pain in new or old version)
+- Spray Paint (depending on the version old/new): 
+  - RAL 5014 - https://amzn.to/3C22f1O
+  - RAL 7031 - https://amzn.to/4jazq3Z
+- Clear spray paint: https://amzn.to/3Wbiu3q
 
 ### Social media
 - Discord: https://discord.gg/9MF7dtWe
