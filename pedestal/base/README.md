@@ -8,6 +8,8 @@
 - Left & Right & Inner - 4x 262 x 340 x 12mm
 - Bottom - 1x 262 x 377 x 12mm
 
+[<img src="./assembly.png" width="100%">](./assembly.png)
+
 ### Hardware:
 - Threaded inserts: M5×9,5×7,3mm - https://amzn.to/3Watka1
 - Wood screws
