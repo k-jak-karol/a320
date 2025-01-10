@@ -1,14 +1,13 @@
-# Airbus A320
-## Home Cockpit Pedestal
-### Cockpit Door Panel
+# Airbus A320 - Home Cockpit
+## Pedestal - Cockpit Door Panel
 
 [<img src="./preview.png" width="100%">](./preview.png)
 
-#### Parts:
-- [Annonciator](./../../misc/announciator)
+### Parts:
+- [Announciator](./../../misc/announciator)
 - [DZUS](./../../misc/dzus)
 
-#### Hardware:
+### Hardware:
 - Spray Paint (depending on the version old/new):
   - RAL 5014 - https://amzn.to/3C22f1O
   - RAL 7031 - https://amzn.to/4jazq3Z

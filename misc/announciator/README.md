@@ -1,6 +1,5 @@
-# Airbus A320
-## Home Cockpit
-### Announciator
+# Airbus A320 - Home Cockpit
+## Announciator
 
 [<img src="./preview.png" width="100%">](./preview.png)
 
@@ -8,7 +7,7 @@ The body can be 3d printed. The face is tricky to route. You have to route the t
 
 [<img src="./face.png" width="100%">](./assembly.png)
 
-#### Hardware:
+### Hardware:
 - 2x 5mm LED (Red/Amber): https://amzn.to/4h1cpyG
 - Black spraypaint: https://amzn.to/4gPvXpR
 - 2x Resistor*: https://amzn.to/3WfNnDQ
