@@ -8,6 +8,7 @@
 - [DZUS](./../../misc/dzus)
 
 ### Hardware:
+- COB LED Orange 2.7mm 12V - https://amzn.to/40soF5N
 - Spray Paint (depending on the version old/new):
   - RAL 5014 - https://amzn.to/3C22f1O
   - RAL 7031 - https://amzn.to/4jazq3Z
