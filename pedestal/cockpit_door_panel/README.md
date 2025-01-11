@@ -13,6 +13,8 @@
   - RAL 5014 - https://amzn.to/3C22f1O
   - RAL 7031 - https://amzn.to/4jazq3Z
 - 1x Momentary switch (On)-Off-(On): https://amzn.to/4h9SfT5
+- Arduino Breakout Board: https://amzn.to/4j4FN9b
+- Arduino Nano: https://amzn.to/4h74IXG
 - 1x Round Pushbutton 12mm: https://amzn.to/4a9n1t3
 - 3x M3 Screw: https://amzn.to/4a9nlrL
 - Set of crimp connectors: https://amzn.to/3E39vLm
