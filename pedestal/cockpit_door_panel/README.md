@@ -15,4 +15,6 @@
 - 1x Momentary switch (On)-Off-(On): https://amzn.to/4h9SfT5
 - 1x Round Pushbutton 12mm: https://amzn.to/4a9n1t3
 - 3x M3 Screw: https://amzn.to/4a9nlrL
+- Set of crimp connectors: https://amzn.to/3E39vLm
+- Wire ferrules: https://amzn.to/3PCMBwV
 - Set of Hex Spacer Standoffs: https://amzn.to/3Pxw7Xc
