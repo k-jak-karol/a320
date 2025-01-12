@@ -1,6 +1,8 @@
 # Airbus A320 - Home Cockpit
 ## Pedestal - Cockpit Door Panel
 
+YouTube Video: https://www.youtube.com/watch?v=UO_dVJxS8eo
+
 [<img src="./preview.png" width="100%">](./preview.png)
 
 ### Parts:
