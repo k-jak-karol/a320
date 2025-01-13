@@ -1,6 +1,7 @@
 # Airbus A320 - Home Cockpit
 
 ## Pedestal
+- [ACARS Printer](./pedestal/acars_printer)
 - [Base](./pedestal/base)
 - [Cockpit Door Panel](./pedestal/cockpit_door_panel)
 ---
