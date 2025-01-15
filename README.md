@@ -4,6 +4,7 @@
 - [ACARS Printer](./pedestal/acars_printer)
 - [Base](./pedestal/base)
 - [Cockpit Door Panel](./pedestal/cockpit_door_panel)
+- [Data Loader](./pedestal/data_loader)
 ---
 ## Social media
 - Discord: https://discord.gg/9MF7dtWe
