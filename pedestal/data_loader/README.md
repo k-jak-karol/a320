@@ -5,6 +5,9 @@ Video: https://youtu.be/CNgb2_5Iwbs
 
 [<img src="./preview.png" width="100%">](./preview.png)
 
+### Parts:
+- [DZUS](./../../misc/dzus)
+
 ### Hardware:
 - COB LED Orange 2.7mm 12V - https://amzn.to/40soF5N
 - Connectors: https://amzn.to/42aIQGB
