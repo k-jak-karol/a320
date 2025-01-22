@@ -10,7 +10,7 @@ YouTube Video: tba
 - Airbus A320 Parking Brake Handle by Mark Ayton: https://www.printables.com/model/436160-airbus-a320-parking-brake-handle
 
 ### Parts:
-- [DZUS](./../../misc/dzus
+- [DZUS](./../../misc/dzus)
 
 ### Hardware:
 - [Common hardware](./../../)
