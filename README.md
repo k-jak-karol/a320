@@ -4,6 +4,8 @@
 - [ACARS Printer](./pedestal/acars_printer)
 - [Base](./pedestal/base)
 - [Cockpit Door Panel](./pedestal/cockpit_door_panel)
+- [Data Loader](./pedestal/data_loader)
+- [Rudder Trim](./pedestal/rudder_trim)
 
 ## Parts
 This is the list used most commonly, so it's not repeated in every module.
@@ -20,6 +22,7 @@ This is the list used most commonly, so it's not repeated in every module.
   - RAL 9003 (white) - https://amzn.to/4jrzVqm
   - RAL 9005 (black) - https://amzn.to/40px6NZ
 - Clear coat: https://amzn.to/3Wbiu3q
+
 ---
 ## Social media
 - Discord: https://discord.gg/9MF7dtWe
