@@ -22,6 +22,7 @@ This is the list used most commonly, so it's not repeated in every module.
   - RAL 7031 - https://amzn.to/4jazq3Z
   - RAL 9003 (white) - https://amzn.to/4jrzVqm
   - RAL 9005 (black) - https://amzn.to/40px6NZ
+  - RAL 7035 (knobs) - https://amzn.to/4hjYNPL
 - Clear coat: https://amzn.to/3Wbiu3q
 
 ---
