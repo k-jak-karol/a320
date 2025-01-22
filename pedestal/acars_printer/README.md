@@ -9,6 +9,5 @@ YouTube Video: [https://www.youtube.com/watch?v=UO_dVJxS8eo](https://www.youtube
 - [DZUS](./../../misc/dzus)
 
 ### Hardware:
-- COB LED Orange 2.7mm 12V - https://amzn.to/40soF5N
-- Set of Hex Spacer Standoffs: https://amzn.to/3Pxw7Xc
+- [Common hardware](./../../)
 - Handle: https://amzn.to/4acL5LH
