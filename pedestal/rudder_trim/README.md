@@ -18,3 +18,4 @@ YouTube Video: tba
 - 1x Round Pushbutton 12mm: https://amzn.to/4a9n1t3
 - 90 degree Rotary Switch: https://amzn.to/4hpNkNW
 - 3-position 45-degree Rotary Switch: https://amzn.to/4jtrivN
+- 7mm ball bearing: https://amzn.to/3Wo7foj
