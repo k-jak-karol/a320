@@ -22,6 +22,7 @@ YouTube Video:
 - 1x Round Pushbutton 12mm: https://amzn.to/4a9n1t3
 - 90 degree Rotary Switch: https://amzn.to/4hpNkNW
 - 3-position 45-degree Rotary Switch: https://amzn.to/4jtrivN
+- 7mm ball bearing: https://amzn.to/3Wo7foj
 
 ### Scripts
 - 7-Segment: `if(# == 0, 8888, if($<0, 'L', 'r') + if(Abs($)<10, ' ', '') + Round(Abs($),1))`
